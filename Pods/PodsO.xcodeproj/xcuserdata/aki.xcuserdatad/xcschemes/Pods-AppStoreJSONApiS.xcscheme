@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "323DA02AF03FB8DE226FB825961793D3"
-               BuildableName = "SDWebImage.framework"
-               BlueprintName = "SDWebImage"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "4794517EDFB764A1DB67A7156BFCD6A3"
+               BuildableName = "PodsO_AppStoreJSONApiS.framework"
+               BlueprintName = "PodsO-AppStoreJSONApiS"
+               ReferencedContainer = "container:PodsO.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "323DA02AF03FB8DE226FB825961793D3"
-            BuildableName = "SDWebImage.framework"
-            BlueprintName = "SDWebImage"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            BlueprintIdentifier = "4794517EDFB764A1DB67A7156BFCD6A3"
+            BuildableName = "PodsO_AppStoreJSONApiS.framework"
+            BlueprintName = "PodsO-AppStoreJSONApiS"
+            ReferencedContainer = "container:PodsO.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
